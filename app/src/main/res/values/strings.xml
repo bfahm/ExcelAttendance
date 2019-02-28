@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Excel Attendance</string>
+    <string name="import_from_template">Import From Template</string>
+    <string name="reset_columns">Reset Columns</string>
+</resources>
